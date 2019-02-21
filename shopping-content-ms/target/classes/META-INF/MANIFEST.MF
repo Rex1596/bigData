@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jjj
+Build-Jdk: 11
+Implementation-Title: shopping-content-ms
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.web.shopping
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/shopping-parents/shopping-content-ms
+Created-By: Maven Integration for Eclipse
+

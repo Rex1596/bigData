@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: shopping-search-ms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jjj
+Implementation-Vendor-Id: com.shopping.search
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/shopping-search-ms
+Created-By: Maven Integration for Eclipse
+

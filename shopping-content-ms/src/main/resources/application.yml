@@ -1,0 +1,23 @@
+server:
+  port: 8887
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8848/eureka
+spring:
+  application: 
+    name: 'shopping-content-ms'
+  datasource:
+    username: root
+    password: 1234
+    url: 'jdbc:mysql://localhost:3306/pinyougoudb?useUnicode=true&characterEncoding=UTF-8'
+    type: com.alibaba.druid.pool.DruidDataSource 
+    
+mybatis:
+  type-aliases-package: com.shopping.content.pojo
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+
+ 
